@@ -315,6 +315,12 @@ header {
     padding: 15px 30px;
 }
 
+.btnDiv {
+width: 100%;
+left: 0;
+bottom: 10px;
+position: absolute;
+}
 // Contact
 #contact .fa {
     color: $theme-dark;

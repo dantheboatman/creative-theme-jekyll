@@ -3349,12 +3349,6 @@ fieldset[disabled] .btn-link:focus {
 .jumbotron {
   position: relative;
 }
-.btnDiv {
-width: 100%;
-left: 0;
-bottom: 10px;
-position: absolute;
-}
 .btn-block + .btn-block {
   margin-top: 5px;
 }
