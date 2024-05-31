@@ -44,8 +44,10 @@ p {
 
 .bg-primary {
     background-color: $theme-primary;
-}
-
+    a {
+        color: white
+    }
+    
 .bg-dark {
     background-color: $theme-dark;
     color: white;
@@ -178,6 +180,9 @@ header {
                 color: rgba(white, .7);
                 font-size: 16px;
                 margin-bottom: 50px;
+            }
+            a {
+                color: white
             }
         }
     }
