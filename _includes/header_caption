@@ -1,0 +1,9 @@
+<section class="bg-primary" id="value">
+    <div class="container">
+        <div class="row">
+            <div class="col text-faded ">
+                <p>Photo by Artur Westergren via <a href="https://unsplash.com/photos/Rx92z9dU-mA">Unsplash</a></p>
+            </div>
+        </div>
+    </div>
+</section>
