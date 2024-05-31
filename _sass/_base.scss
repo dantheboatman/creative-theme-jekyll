@@ -302,10 +302,6 @@ header {
     padding-left:0;
 }
 
-.bg-primary a {
-    color: #ffffff;
-}
-
 // Button Styles
 .btn-default {
     @include button-variant(black, white, white);
