@@ -222,10 +222,6 @@ header {
     }
 }
 
-.service-box .btn {
-    margin-top: auto; /* push it to the bottom */
-}
-
 .portfolio-box {
     position: relative;
     display: block;
@@ -308,7 +304,7 @@ header {
 }
 
 .btn-primary {
-    @include button-variant(white, $theme-primary, $theme-primary);
+    @include button-variant(white, $theme-secondary, $theme-secondary);
 }
 
 .btn {
